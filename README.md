@@ -60,8 +60,10 @@ Je suis toujours ouvert à la collaboration sur des projets passionnants. Si vou
 
 ## 📫 Comment me Contacter
 
-Vous pouvez me joindre via :
 <div align="center">
+  
+Vous pouvez me joindre via :
+
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mn.sandratra@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/in/sandratra-mbelo-ndriamanampy)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/.sandratra)
