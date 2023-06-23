@@ -22,31 +22,32 @@ Je suis actuellement en train d'approfondir mes connaissances dans les domaines 
 
 ### Frameworks :
 
-- [React](https://reactjs.org/) ![React](https://img.icons8.com/color/48/000000/react-native.png)
-- [Angular](https://angular.io/) ![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
-- [Spring Boot](https://spring.io/projects/spring-boot) ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)
-- [Symfony](https://symfony.com/) ![Symfony](https://img.icons8.com/color/48/000000/symfony.png)
-- [Express.js (Node.js)](https://expressjs.com/) ![Express.js](https://img.icons8.com/color/48/000000/nodejs.png)
+[![React](https://img.icons8.com/color/96/000000/react-native.png)](https://reactjs.org/)
+[![Angular](https://img.icons8.com/color/96/000000/angularjs.png)](https://angular.io/)
+[![Spring Boot](https://img.icons8.com/color/96/000000/spring-logo.png)](https://spring.io/projects/spring-boot)
+[![Symfony](https://img.icons8.com/color/96/000000/symfony.png)](https://symfony.com/)
+[![Express.js (Node.js)](https://img.icons8.com/color/96/000000/nodejs.png)](https://expressjs.com/)
 
 ### Langages de programmation :
 
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) ![CSS](https://img.icons8.com/color/48/000000/css3.png)
-- [Java](https://www.java.com/) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-- [Kotlin](https://kotlinlang.org/) ![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-- [TypeScript](https://www.typescriptlang.org/) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
-- [C](https://en.cppreference.com/w/c) ![C](https://img.icons8.com/color/48/000000/c-programming.png)
-- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
-- [PHP](https://www.php.net/) ![PHP](https://img.icons8.com/officel/48/000000/php-logo.png)
+[![HTML](https://img.icons8.com/color/96/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.icons8.com/color/96/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Java](https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png)](https://www.java.com/)
+[![Kotlin](https://img.icons8.com/color/96/000000/kotlin.png)](https://kotlinlang.org/)
+[![JavaScript](https://img.icons8.com/color/96/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.icons8.com/color/96/000000/typescript.png)](https://www.typescriptlang.org/)
+[![C](https://img.icons8.com/color/96/000000/c-programming.png)](https://en.cppreference.com/w/c)
+[![C#](https://img.icons8.com/color/96/000000/c-sharp-logo.png)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![PHP](https://img.icons8.com/officel/96/000000/php-logo.png)](https://www.php.net/)
 
 ### Outils et technologies :
 
-- [Git](https://git-scm.com/) ![Git](https://img.icons8.com/color/48/000000/git.png)
-- [Docker](https://www.docker.com/) ![Docker](https://img.icons8.com/color/48/000000/docker.png)
-- [Jenkins](https://www.jenkins.io/) ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png)
-- [Unity](https://unity.com/) ![Unity](https://img.icons8.com/color/48/000000/unity.png)
-- [Android Studio](https://developer.android.com/studio/) ![Android Studio](https://img.icons8.com/color/48/000000/android-studio.png)
+[![Git](https://img.icons8.com/color/96/000000/git.png)](https://git-scm.com/)
+[![Docker](https://img.icons8.com/color/96/000000/docker.png)](https://www.docker.com/)
+[![Jenkins](https://img.icons8.com/color/96/000000/jenkins.png)](https://www.jenkins.io/)
+[![Unity](https://img.icons8.com/color/96/000000/unity.png)](https://unity.com/)
+[![Android Studio](https://img.icons8.com/color/96/000000/android-studio.png)](https://developer.android.com/studio/)
+
 
 ## 👯 Collaboration
 
