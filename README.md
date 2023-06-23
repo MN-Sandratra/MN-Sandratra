@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Salut ! 👋
 
-Bienvenue sur mon profil GitHub ! Je suis Sandratra MBELO NDRIAMANAMPY, étudiant en informatique spécialisé en génie logiciel, actuellement en master. Je suis passionné par le développement web et mobile ainsi que le machine learning. Vous trouverez ici certains des projets sur lesquels j'ai travaillé ainsi que mes contributions open-source. N'hésitez pas à explorer et à collaborer !
+Bienvenue sur mon profil GitHub ! Je suis Sandratra MBELO NDRIAMANAMPY, étudiant en informatique spécialisé en génie logiciel, actuellement en master. Je suis passionné par le développement web, mobile ainsi que le machine learning. Vous trouverez ici certains des projets sur lesquels j'ai travaillé ainsi que mes contributions open-source. N'hésitez pas à explorer et à collaborer !
 
 
 ## 🌱 Mes Compétences
@@ -61,10 +61,11 @@ Je suis toujours ouvert à la collaboration sur des projets passionnants. Si vou
 ## 📫 Comment me Contacter
 
 Vous pouvez me joindre via :
-- Email ![Email](https://img.icons8.com/fluency/48/000000/email.png)
-- LinkedIn ![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)
-- Twitter ![Twitter](https://img.icons8.com/fluency/48/000000/twitter.png)
-- GitHub ![GitHub](https://img.icons8.com/fluency/48/000000/github.png)
+[![Email](https://img.icons8.com/fluency/96/000000/email.png)](mailto:mn.sandratra@gmail.com)
+[![LinkedIn](https://img.icons8.com/fluency/96/000000/linkedin.png)](https://www.linkedin.com/in/in/sandratra-mbelo-ndriamanampy-b2249b239)
+[![Discord](https://img.icons8.com/color/96/000000/discord-new-logo.png)](https://discordapp.com/users/.sandratra)
+[![Website](https://img.icons8.com/fluency/96/000000/domain.png)](https://votre-site-web)
+[![GitHub](https://img.icons8.com/fluency/96/000000/github.png)](https://github.com/MN-Sandratra/)
 
 
 ## 🤝 Contributions Open-Source
