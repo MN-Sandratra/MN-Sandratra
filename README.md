@@ -22,33 +22,31 @@ Je suis actuellement en train d'approfondir mes connaissances dans les domaines 
 
 ### Frameworks :
 
-[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)](https://reactjs.org/)
-[![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)](https://angular.io/)
-[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat-square)](https://spring.io/projects/spring-boot)
-[![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white&style=flat-square)](https://symfony.com/)
-[![Express.js (Node.js)](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)](https://expressjs.com/)
+- [React](https://reactjs.org/) ![React](https://img.icons8.com/color/48/000000/react-native.png)
+- [Angular](https://angular.io/) ![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
+- [Spring Boot](https://spring.io/projects/spring-boot) ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)
+- [Symfony](https://symfony.com/) ![Symfony](https://img.icons8.com/color/48/000000/symfony.png)
+- [Express.js (Node.js)](https://expressjs.com/) ![Express.js](https://img.icons8.com/color/48/000000/nodejs.png)
 
 ### Langages de programmation :
 
-[![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)](https://www.java.com/)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square)](https://kotlinlang.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)](https://www.typescriptlang.org/)
-[![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat-square)](https://en.cppreference.com/w/c)
-[![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)](https://www.php.net/)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) ![CSS](https://img.icons8.com/color/48/000000/css3.png)
+- [Java](https://www.java.com/) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+- [Kotlin](https://kotlinlang.org/) ![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+- [TypeScript](https://www.typescriptlang.org/) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+- [C](https://en.cppreference.com/w/c) ![C](https://img.icons8.com/color/48/000000/c-programming.png)
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
+- [PHP](https://www.php.net/) ![PHP](https://img.icons8.com/officel/48/000000/php-logo.png)
 
 ### Outils et technologies :
 
-[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)](https://git-scm.com/)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)](https://www.docker.com/)
-[![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square)](https://www.jenkins.io/)
-[![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat-square)](https://unity.com/)
-[![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat-square)](https://developer.android.com/studio/)
-
-
+- [Git](https://git-scm.com/) ![Git](https://img.icons8.com/color/48/000000/git.png)
+- [Docker](https://www.docker.com/) ![Docker](https://img.icons8.com/color/48/000000/docker.png)
+- [Jenkins](https://www.jenkins.io/) ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png)
+- [Unity](https://unity.com/) ![Unity](https://img.icons8.com/color/48/000000/unity.png)
+- [Android Studio](https://developer.android.com/studio/) ![Android Studio](https://img.icons8.com/color/48/000000/android-studio.png)
 
 ## 👯 Collaboration
 
@@ -57,10 +55,10 @@ Je suis toujours ouvert à la collaboration sur des projets passionnants. Si vou
 ## 📫 Comment me Contacter
 
 Vous pouvez me joindre via :
-
-- Email : [Votre Adresse Email]
-- LinkedIn : [Votre URL de Profil LinkedIn]
-- Discord : [@VotreNomTwitter]
+- Email ![Email](https://img.icons8.com/fluency/48/000000/email.png)
+- LinkedIn ![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)
+- Twitter ![Twitter](https://img.icons8.com/fluency/48/000000/twitter.png)
+- GitHub ![GitHub](https://img.icons8.com/fluency/48/000000/github.png)
 
 
 ## 🤝 Contributions Open-Source
