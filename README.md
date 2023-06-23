@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 Bienvenue sur mon profil GitHub ! Je suis Sandratra MBELO NDRIAMANAMPY, étudiant en informatique spécialisé en génie logiciel, actuellement en master. Je suis passionné par le développement web et mobile ainsi que le machine learning. Vous trouverez ici certains des projets sur lesquels j'ai travaillé ainsi que mes contributions open-source. N'hésitez pas à explorer et à collaborer !
 
+
 ## 🌱 Mes Compétences
 
 Je suis actuellement en train d'approfondir mes connaissances dans les domaines suivants :
@@ -39,6 +40,8 @@ Je suis actuellement en train d'approfondir mes connaissances dans les domaines 
 [![C](https://img.icons8.com/color/96/000000/c-programming.png)](https://en.cppreference.com/w/c)
 [![C#](https://img.icons8.com/color/96/000000/c-sharp-logo.png)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![PHP](https://img.icons8.com/officel/96/000000/php-logo.png)](https://www.php.net/)
+[![Python](https://img.icons8.com/color/96/000000/python.png)](https://www.python.org/)
+
 
 ### Outils et technologies :
 
@@ -47,11 +50,13 @@ Je suis actuellement en train d'approfondir mes connaissances dans les domaines 
 [![Jenkins](https://img.icons8.com/color/96/000000/jenkins.png)](https://www.jenkins.io/)
 [![Unity](https://img.icons8.com/color/96/000000/unity.png)](https://unity.com/)
 [![Android Studio](https://img.icons8.com/color/96/000000/android-studio.png)](https://developer.android.com/studio/)
+[![Google Colab](https://img.icons8.com/color/96/000000/google-colab.png)](https://colab.research.google.com/)
 
 
 ## 👯 Collaboration
 
 Je suis toujours ouvert à la collaboration sur des projets passionnants. Si vous avez des idées ou si vous souhaitez travailler ensemble, n'hésitez pas à me contacter. Créons quelque chose d'incroyable !
+
 
 ## 📫 Comment me Contacter
 
