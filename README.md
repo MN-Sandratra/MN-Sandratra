@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Salut ! 👋
 
-Bienvenue sur mon profil GitHub ! Je suis Sandratra MBELO NDRIAMANAMPY, étudiant en informatique spécialisé en génie logiciel, actuellement en master II. Je suis passionné par le développement web, mobile ainsi que le machine learning. Vous trouverez ici certains des projets sur lesquels j'ai travaillé ainsi que mes contributions open-source. N'hésitez pas à explorer et à collaborer !
+Bienvenue sur mon profil GitHub ! Je suis Sandratra MBELO NDRIAMANAMPY, titulaire d’un master en informatique avec une spécialisation en génie logiciel. Passionné par le développement web, mobile et le machine learning, je suis toujours en quête de nouvelles connaissances et d'innovations. Ici, vous découvrirez une sélection de mes projets et de mes contributions open-source. N'hésitez pas à explorer, à me contacter et à collaborer sur de nouveaux défis passionnants !
 
 
 ## 🌱 Mes Compétences
